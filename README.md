@@ -3,8 +3,6 @@
 
 ## Welcome to my GitHub Page!
 
-<hr>
-
 ### About me
 I'm currently majoring in Information Systems with focus on systems development and IT infrastructure intern.
 
