@@ -4,11 +4,22 @@
 ## Welcome to my GitHub Page!
 
 ### About me
-I'm majoring in Information Systems and working as Front-end Developer.
 
-My professional career in the area of technology and programming officially started in October 2020, when I started interning in the Infrastructure area and was promoted to Junior Infrastructure Technician. At the moment i'm a Programming Instructor and Front-end Developer.
+Front end developer. Team leader. Programming instructor and creative development enthusiast with immersion techniques.
 
-Today I have solid knowledge in object-oriented programming, data structure and mobile with Ionic and Angular. Applied in different projects that are in a production environment, and that were programmed in Java, C# and PHP, integrated to MySQL and SQL Server databases. I developed the front-end of WebSites and complete systems in PHP7, HTML5, CSS3 and JavaScript with responsiveness based on the Bootstrap 4 framework.
+Coming from a simple family and in the market labor since I was 16 years old. He worked as a call center operator (intern) and was hired after 12 months, he worked 12 more as a Jr. Credit Recovery and another 4 as a Sales Consultant.
 
-### See more at: https://gitbiohazard.github.io/
-### My last project: https://gitbiohazard.github.io/projects/Cyberpunk/index
+From a very young age, always interested, he studied programming and technology. In 2019 he enrolled in the Bachelor of Information Systems (B.Sc). He started his career in technology in 2020 as an IT Infrastructure Intern and was promoted to Jr Infrastructure Technician.
+
+In 2021, he found himself as a Front-end Developer. Passionate about his profession, he now leads the development team, but has been a student programming instructor internationally.
+
+Most used technologies:
+• HTML, CSS and Javascript;
+• Pug.js, SASS and Babel 2015+
+• WebGL, GSAP, Three.js
+• Prismic.io and DigitalOcean
+
+Backend facing:
+• React.js, Vue.js and Angular
+• PHP, Node.js and Webpack
+• MySQL, MariaDB and MongoDB
