@@ -29,7 +29,7 @@ Most used technologies:\
 
 Backend facing:\
 • PHP and Node.js;\
-• MySQL, MariaDB and MongoDB.\
+• MySQL, MariaDB and MongoDB.
 
 ## Status 🎉
 
