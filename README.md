@@ -25,7 +25,7 @@ Most used technologies:\
 • Pug.js, SASS and Babel 2015+;\
 • WebGL, GSAP, Three.js;\
 • React.js, Vue.js and Bootstrap 5;\
-• Prismic.io and DigitalOcean.
+• Prismic.io and Webpack.
 
 Backend facing:\
 • PHP and Node.js;\
