@@ -7,10 +7,6 @@ Let me introduce myself.
 Front end developer. Team leader. Programming instructor and creative \
 development enthusiast with immersion techniques.
 
-Coming from a simple family and in the market labor since I was 16 years old.\
-I worked as a call center operator (intern) and was hired after 12 months, then \
-i worked 12 more as a Jr. Credit Recovery and another 4 as a Sales Consultant.
-
 From a very young age, always interested, i studied programming and technology. \
 In 2019 i enrolled in the Bachelor of Information Systems (B.Sc). I started my \
 career in technology in october 2020 as an IT Infrastructure Intern and was promoted \
