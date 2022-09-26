@@ -8,24 +8,14 @@ Front end developer. Team leader. Programming instructor and creative \
 development enthusiast with immersion techniques.
 
 From a very young age, always interested, i studied programming and technology. \
-In 2019 i enrolled in the Bachelor of Information Systems (B.Sc). I started my \
-career in technology in october 2020 as an IT Infrastructure Intern and was promoted \
-to Jr Infrastructure Technician 4 months later.
+In 2019 i enrolled in the Bachelor of Information Systems (B.Sc).
 
-In 2021, i found myself as a Front-end Developer. Passionate about my profession, \
+Shortly thereafter, i found myself as a Front-end Developer. Passionate about my profession, \
 now i lead the development team, but has also been a student programming \
 instructor internationally.
 
-Most used technologies:\
-• HTML, CSS and Javascript;\
-• Pug.js, SASS and Babel 2015+;\
-• WebGL, GSAP, Three.js;\
-• React.js, Vue.js and Bootstrap 5;\
-• Prismic.io and Webpack.
-
-Backend facing:\
-• PHP and Node.js;\
-• MySQL, MariaDB and MongoDB.
+I consider myself emotionally stable, focused and consistent. I like to work \
+quickly, deliver results and always face challenges as an opportunity to learn new things.
 
 ## Status 🎉
 
