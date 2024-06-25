@@ -2,11 +2,11 @@
 
 ### First things first, i'm pleased to have you been here.
 
-I am a front-end developer passionate about creating engaging and innovative digital experiences. With a journey marked by dedication and continuous growth, my goal is to leverage my expertise to contribute to challenging projects. \
+I am a front-end developer passionate about creating engaging and innovative digital experiences. With a journey marked by dedication and continuous growth, my goal is to leverage my expertise to contribute to challenging projects.
 
-Coming from a humble family, I entered the workforce at the age of 16 and since then, I have been dedicated to improving my programming and technology skills. My journey has led me to lead teams, mentor other aspiring developers, and explore creative development immersive techniques. With a Bachelor's degree in Information Systems, I have followed a path that has culminated in my passion for front-end development. \
+Coming from a humble family, I entered the workforce at the age of 16 and since then, I have been dedicated to improving my programming and technology skills. My journey has led me to lead teams, mentor other aspiring developers, and explore creative development immersive techniques. With a Bachelor's degree in Information Systems, I have followed a path that has culminated in my passion for front-end development.
 
-I consider myself emotionally stable, focused, and consistent. I enjoy working with agility, delivering results, and I always see challenges as opportunities to learn new things. \
+I consider myself emotionally stable, focused, and consistent. I enjoy working with agility, delivering results, and I always see challenges as opportunities to learn new things.
 
 ## Status 🎉
 
