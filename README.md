@@ -2,20 +2,11 @@
 
 ### First things first, i'm pleased to have you been here.
 
-Let me introduce myself.
+I am a front-end developer passionate about creating engaging and innovative digital experiences. With a journey marked by dedication and continuous growth, my goal is to leverage my expertise to contribute to challenging projects. \
 
-Front end developer. Team leader. Programming instructor and creative \
-development enthusiast with immersion techniques.
+Coming from a humble family, I entered the workforce at the age of 16 and since then, I have been dedicated to improving my programming and technology skills. My journey has led me to lead teams, mentor other aspiring developers, and explore creative development immersive techniques. With a Bachelor's degree in Information Systems, I have followed a path that has culminated in my passion for front-end development. \
 
-From a very young age, always interested, i studied programming and technology. \
-In 2019 i enrolled in the Bachelor of Information Systems (B.Sc).
-
-Shortly thereafter, i found myself as a Front-end Developer. Passionate about my profession, \
-now i lead the development team, but has also been a student programming \
-instructor internationally.
-
-I consider myself emotionally stable, focused and consistent. I like to work \
-quickly, deliver results and always face challenges as an opportunity to learn new things.
+I consider myself emotionally stable, focused, and consistent. I enjoy working with agility, delivering results, and I always see challenges as opportunities to learn new things. \
 
 ## Status 🎉
 
